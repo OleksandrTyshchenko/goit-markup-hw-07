@@ -42,7 +42,11 @@
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.site__icon {
+.site__contact:hover {
+  color: var(--accent-color);
+}
+
+.site__contact .site__icon {
   margin-right: 10px;
   fill: currentColor;
 }

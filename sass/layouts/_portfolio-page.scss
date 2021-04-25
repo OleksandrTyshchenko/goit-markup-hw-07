@@ -1,12 +1,14 @@
 .filter {
   display: flex;
   justify-content: center;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  padding-left: 0px;
 }
 
 .filter__item {
   height: 44px;
   list-style: none;
-  margin-bottom: 50px;
   border: none;
 }
 
